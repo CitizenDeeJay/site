@@ -232,7 +232,7 @@ table td {
   float: left;
 }
 .site-title, .site-title:visited {
-  color: rgb(66.25, 66.25, 66.25);
+  color: #FFFFFF;
 }
 
 .site-nav {
@@ -246,7 +246,7 @@ table td {
   display: none;
 }
 .site-nav .page-link {
-  color: #111;
+  color: #FFFFFF;
   line-height: 1.5;
 }
 .site-nav .page-link:not(:last-child) {
@@ -257,8 +257,8 @@ table td {
     position: absolute;
     top: 9px;
     right: 15px;
-    background-color: #fdfdfd;
-    border: 1px solid #e8e8e8;
+    background-color: #000000;
+    border: 1px solid none;
     border-radius: 5px;
     text-align: right;
   }
@@ -280,7 +280,7 @@ table td {
     text-align: center;
   }
   .site-nav .menu-icon > svg {
-    fill: rgb(66.25, 66.25, 66.25);
+    fill: #FFFFFF;
   }
   .site-nav input ~ .trigger {
     clear: both;
