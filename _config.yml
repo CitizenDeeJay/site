@@ -7,8 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hey!
 url: https://CitizenDeeJay.github.io 
 baseurl: "/site" # the subpath of your site, e.g. /blog
-twitter_username: citizendeejay
-github_username:  citizen_deejay
+twitter_username: citizen_deejay
+github_username:  citizendeejay
 
 # Build settings
 theme: minima
