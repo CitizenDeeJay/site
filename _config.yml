@@ -6,7 +6,7 @@ email: deejay@dofddesign.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey!
 url: https://CitizenDeeJay.github.io 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "site" # the subpath of your site, e.g. /blog
 twitter_username: citizendeejay
 github_username:  citizendeejay
 
