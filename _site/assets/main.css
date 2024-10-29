@@ -89,7 +89,7 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: rgb(22.9483471074, 86.2541322314, 168.5516528926);
+  color: #703e99;
 }
 a:hover {
   color: #111;
@@ -448,17 +448,17 @@ table td {
  * Syntax highlighting styles
  */
 .highlight {
-  background: #fff;
+  background: #703e99;
 }
 .highlighter-rouge .highlight {
-  background: #eef;
+  background: #703e99;
 }
 .highlight .c {
-  color: #998;
+  color: #703e99;
   font-style: italic;
 }
 .highlight .err {
-  color: #a61717;
+  color: #703e99;
   background-color: #e3d2d2;
 }
 .highlight .k {
